@@ -1,0 +1,39 @@
+
+header{
+    nav{
+        background-color: rgb(108, 108, 117);
+    }
+}
+
+div{
+    ul{
+        li{
+            
+            font-size: 14px;
+            &:hover{
+            color: rgb(241, 228, 228)
+            }
+        }
+    }
+}
+
+li:nth-child(1){
+    width: 110px;
+}
+
+li:nth-child(2){
+    width: 103px;
+}
+
+li:nth-child(3){
+    width: 140px;
+}
+
+li:nth-child(4){
+    width: 155px;
+    margin-left: -15px;
+}
+
+li:nth-child(5){
+    width: 130px;
+}

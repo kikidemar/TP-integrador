@@ -1,0 +1,44 @@
+.h-carousel{
+    height: 700px;
+}
+
+.img-1 {
+    background-image: url(../assets/img/ba1.jpg);
+}
+
+.img-2 {
+    background-image: url(../assets/img/ba2.jpg); 
+}
+
+.img-3{
+    background-image: url(../assets/img/ba3.jpg); 
+}
+
+.tot-img {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    position: relative; 
+}
+
+.grad-img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.grad-img{
+    div{
+        bottom: 8rem;
+        right: 6rem;
+        text-align: end;
+        } 
+    } 
+
+    h6{
+        font-size: 27px;
+    }
+
+    
