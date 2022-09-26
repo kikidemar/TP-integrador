@@ -41,4 +41,12 @@
         font-size: 27px;
     }
 
-    
+    @media only screen and (max-width: 675px) {
+        .fix{
+            flex-direction: column;
+            align-items: center;
+        }
+        .inv{
+            display: none;
+        }
+    }
